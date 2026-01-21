@@ -13,7 +13,7 @@ export async function createCall(answer:string): Promise<any> {
      to: "+919696645655",
      twiml: answer,
    });
-   console.log(call)
+   console.log(call.sid)
    return call.sid 
  } catch (error) {
   console.log("error in calling",error)
