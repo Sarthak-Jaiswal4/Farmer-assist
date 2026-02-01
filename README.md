@@ -1,4 +1,4 @@
-Sahaay AI
+# Sahaay AI
 
 > **Empowering the Backbone of the Nation:** A durable, voice-first AI agent providing farmers with real-time agricultural intelligence and government scheme access over a simple phone call.
 
