@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Seedling.png" alt="Seedling" width="45" height="45" /> Sahaay AI
+Sahaay AI
 
 > **Empowering the Backbone of the Nation:** A durable, voice-first AI agent providing farmers with real-time agricultural intelligence and government scheme access over a simple phone call.
 
