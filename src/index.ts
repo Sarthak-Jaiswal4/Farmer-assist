@@ -303,9 +303,3 @@ app.post("/twilio/ended", async (req: Request, res: Response) => {
 
 
 app.listen(3000, () => console.log("express running on 3000"))
-
-const server = createServer({
-    networks: [network]
-})
-
-server.listen(3010, () => console.log("Agent kit running!"));
